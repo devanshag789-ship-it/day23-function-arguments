@@ -1,0 +1,4 @@
+6
+3289
+{'name': 'Rahul', 'age': 20, 'city': 'Delhi', 'country': 'India'}
+<class 'dict'>
